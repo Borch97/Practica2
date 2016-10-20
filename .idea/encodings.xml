@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ud/prog3/pr02/Coche.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ud/prog3/pr02/CocheJuego.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ud/prog3/pr02/JLabelCoche.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ud/prog3/pr02/MundoJuego.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ud/prog3/pr02/VentanaJuego.java" charset="ISO-8859-1" />
+  </component>
+</project>
